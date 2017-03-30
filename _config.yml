@@ -1,0 +1,12 @@
+# Site
+title: Thiago Hersan
+
+# URL
+url: https://thiagohersan.github.io
+baseurl: /
+permalink: :title/
+include: ['_pages']
+
+# Build settings
+markdown: kramdown
+port: 4664

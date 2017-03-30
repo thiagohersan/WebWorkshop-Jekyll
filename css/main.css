@@ -1,0 +1,39 @@
+body {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  display: block;
+  text-align: center;
+}
+
+p {
+  font-family: Arial, Verdana, sans-serif;
+  font-weight: normal;
+  margin-left: 80px;
+  font-size: 16px;
+}
+
+a {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+  color: steelblue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: mediumvioletred;
+  text-decoration: underline;
+}
+
+img.header {
+  display: block;
+  margin: 0 auto;
+}
+
+a.home {
+  display: block;
+  text-align: center;
+}
