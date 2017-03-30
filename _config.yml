@@ -3,7 +3,7 @@ title: Thiago Hersan
 
 # URL
 url: https://thiagohersan.github.io
-baseurl: /
+baseurl: /WebWorkshop-Jekyll
 permalink: :title/
 include: ['_pages']
 
