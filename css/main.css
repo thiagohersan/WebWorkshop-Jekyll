@@ -21,9 +21,11 @@ a {
   font-size: 24px;
   color: steelblue;
   text-decoration: none;
+  transition: all 0.1s linear;
 }
 
 a:hover {
+  font-size: 30px;
   color: mediumvioletred;
   text-decoration: underline;
 }
@@ -31,9 +33,14 @@ a:hover {
 img.header {
   display: block;
   margin: 0 auto;
+  width: 100%;
 }
 
-a.home {
+a.home-link {
   display: block;
   text-align: center;
+}
+
+.home-body p {
+  margin: inherit;
 }
